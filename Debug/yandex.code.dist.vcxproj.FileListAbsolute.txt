@@ -1,0 +1,2 @@
+C:\Users\mrpoi\Desktop\Yandex\yandex.code.dist\Debug\yandex.code.dist.exe
+C:\Users\mrpoi\Desktop\Yandex\yandex.code.dist\Debug\yandex.code.dist.pdb
