@@ -1,2 +1,6 @@
-*.vcxproj
-/yandex.code.dist.exe
+first assignment/
+!first assignment/dist.cpp
+*/.DS_Store
+
+
+
